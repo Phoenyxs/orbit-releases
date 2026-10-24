@@ -1,8 +1,8 @@
-# Termos de uso do Neptor
+# Termos de uso do Neptor chat
 
 **Última atualização: 24 de outubro de 2026**
 
-Ao criar uma conta ou usar o Neptor você concorda com estes termos e com a
+Ao criar uma conta ou usar o Neptor chat ("Neptor") você concorda com estes termos e com a
 [Política de privacidade](privacidade.md). Se não concordar, não use o app.
 
 **Quem oferece o Neptor:** Elias (pessoa física, desenvolvedor do Neptor) — contato: eliasborgeser@gmail.com

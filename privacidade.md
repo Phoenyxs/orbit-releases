@@ -1,8 +1,8 @@
-# Política de privacidade do Neptor
+# Política de privacidade do Neptor chat
 
 **Última atualização: 24 de outubro de 2026**
 
-O Neptor é um aplicativo de comunidades (órbitas), conversas, chamadas de voz e transmissão de tela.
+O Neptor chat ("Neptor") é um aplicativo de comunidades (órbitas), conversas, chamadas de voz e transmissão de tela.
 Esta política explica quais dados o Neptor guarda, para quê, por quanto tempo, com quem eles são
 compartilhados e como você exerce os seus direitos, conforme a Lei Geral de Proteção de Dados
 (Lei nº 13.709/2018, LGPD) e o Marco Civil da Internet (Lei nº 12.965/2014).
